@@ -1,0 +1,32 @@
+{
+  "name": "pilly",
+  "version": "0.0.1",
+  "description": "A simple tool for scaffolding component structures in React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayceeingram/pilly.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "react.js",
+    "components",
+    "js",
+    "javascript",
+    "frontend",
+    "command line"
+  ],
+  "author": "Kaycee Ingram",
+  "license": "MIT",
+  "bin": {
+    "pilly": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kayceeingram/pilly/issues"
+  },
+  "homepage": "https://github.com/kayceeingram/pilly#readme"
+}
