@@ -1,7 +1,7 @@
 {
   "name": "pilly",
-  "version": "0.0.2",
-  "description": "A simple tool for scaffolding component structures in React.",
+  "version": "1.0.0",
+  "description": "Command-Line Tool for scaffolding directories and files for technical books.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,14 +11,16 @@
     "url": "git+https://github.com/kayceeingram/pilly.git"
   },
   "keywords": [
-    "react",
-    "reactjs",
-    "react.js",
-    "components",
     "js",
     "javascript",
-    "frontend",
-    "command line"
+    "node",
+    "node.js",
+    "command line",
+    "command line tool",
+    "tool",
+    "scaffolding",
+    "folders",
+    "files"
   ],
   "author": "Kaycee Ingram",
   "license": "MIT",
