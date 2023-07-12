@@ -1,6 +1,6 @@
 {
   "name": "pilly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command-Line Tool for scaffolding directories and files for technical books.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kayceeingram/pilly.git"
+    "url": "git+https://github.com/kazewaze/pilly.git"
   },
   "keywords": [
     "js",
