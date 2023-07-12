@@ -4,7 +4,7 @@
 
 - Zero Dependencies.
 - Only 1 File.
-- Just 106 Lines of Code (way less minus comments).
+- Just 107 Lines of Code (main file in lib) (way less minus comments).
 
 ### Install:
 ```
@@ -24,3 +24,5 @@ pilly EloquentJs 21 index js
 ```
 
 ## The Example above will create a main folder matching the name of the book provided, create each subfolder within the main folder (ch1, ch2, ch3, etc.) that each contain an index.js file for each.
+
+*Pilly Milly Dilly...* - kazewaze
