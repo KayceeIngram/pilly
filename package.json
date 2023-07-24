@@ -1,6 +1,6 @@
 {
   "name": "pilly",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " The Command Line Tool for Book Exercises.",
   "main": "index.js",
   "scripts": {
