@@ -1,7 +1,7 @@
 <p align="center">
   <img width="275px" height="100px" src="https://raw.githubusercontent.com/kazewaze/assets-holder/main/pilly.png" alt="Pilly Logo"/>
 </p>
----
+
 ## The Command Line Tool for Book Exercises.
 
 - Zero Dependencies.
