@@ -1,6 +1,6 @@
 {
   "name": "pilly",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": " The Command Line Tool for Book Exercises.",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/kayceeingram/pilly/issues"
   },
-  "homepage": "https://github.com/kayceeingram/pilly#readme"
+  "homepage": "https://pilly.netlify.app"
 }
