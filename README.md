@@ -6,7 +6,7 @@
 
 - Zero Dependencies.
 - Only 1 File.
-- Just 114 Lines of Code (main file in lib) (way less minus comments and tests).
+- Just 94 Lines of Code (main file in lib) (way less minus comments and tests).
 
 ## For info see the [official website -->](https://pilly.netlify.app)
 
